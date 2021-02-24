@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66ba8ab2.chunk.css",
+    "main.js": "/static/js/main.d87c3722.chunk.js",
+    "main.js.map": "/static/js/main.d87c3722.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a775dbb5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a775dbb5.js.map",
+    "static/js/2.7ace83d9.chunk.js": "/static/js/2.7ace83d9.chunk.js",
+    "static/js/2.7ace83d9.chunk.js.map": "/static/js/2.7ace83d9.chunk.js.map",
+    "static/js/3.8518e63e.chunk.js": "/static/js/3.8518e63e.chunk.js",
+    "static/js/3.8518e63e.chunk.js.map": "/static/js/3.8518e63e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.66ba8ab2.chunk.css.map": "/static/css/main.66ba8ab2.chunk.css.map",
+    "static/js/2.7ace83d9.chunk.js.LICENSE.txt": "/static/js/2.7ace83d9.chunk.js.LICENSE.txt",
+    "static/media/line.3ee26b77.JPG": "/static/media/line.3ee26b77.JPG",
+    "static/media/note20.8efcbdf6.JPG": "/static/media/note20.8efcbdf6.JPG",
+    "static/media/phone2.40b6107b.JPG": "/static/media/phone2.40b6107b.JPG",
+    "static/media/price.79128329.JPG": "/static/media/price.79128329.JPG",
+    "static/media/sam1.7eb9552e.JPG": "/static/media/sam1.7eb9552e.JPG",
+    "static/media/sam2.1b10c186.JPG": "/static/media/sam2.1b10c186.JPG",
+    "static/media/ultra.b34a7c0c.JPG": "/static/media/ultra.b34a7c0c.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a775dbb5.js",
+    "static/js/2.7ace83d9.chunk.js",
+    "static/css/main.66ba8ab2.chunk.css",
+    "static/js/main.d87c3722.chunk.js"
+  ]
+}
